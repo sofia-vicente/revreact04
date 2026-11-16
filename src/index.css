@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+:root{
+  --dark: #090909;
+  --light: #ffffff;
+  --azul: #30609a;
+  --sombra: 0px 2px 10px #000054; 
+  --verde: #507511;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+
+}
