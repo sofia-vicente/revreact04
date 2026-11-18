@@ -1,6 +1,6 @@
-.wraphome{
-    background-color: var(--verde);
+.wrapHome{
     min-height: 100vh;
     height: auto;
+    background-color: var(--verde);
+    color: var(--dark);
 }
-
