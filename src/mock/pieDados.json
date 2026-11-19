@@ -1,0 +1,42 @@
+{
+    "data01": [
+        {
+            "name": "Desenvolvimento",
+            "value": 400
+        },
+        {
+            "name": "Design",
+            "value": 300
+        },
+        {
+            "name": "Marketing",
+            "value": 200
+        },
+        {
+            "name": "Infraestrutura",
+            "value": 100
+        }
+    ],
+    "data02": [
+        {
+            "name": "Janeiro",
+            "value": 120
+        },
+        {
+            "name": "Fevereiro",
+            "value": 180
+        },
+        {
+            "name": "Março",
+            "value": 150
+        },
+        {
+            "name": "Abril",
+            "value": 220
+        },
+        {
+            "name": "Maio",
+            "value": 190
+        }
+    ]
+}
