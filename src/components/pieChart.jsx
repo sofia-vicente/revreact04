@@ -21,7 +21,7 @@ export const GPie = () => {
                 cx="50%"
                 cy="50%"
                 outerRadius="50%"
-                fill="#8884d8"
+                fill="#c91609"
                 stroke="white"
                 isAnimationActive={true}
             />
@@ -34,7 +34,7 @@ export const GPie = () => {
                 cy="50%"
                 innerRadius="60%"
                 outerRadius="80%"
-                fill="#82ca9d"
+                fill="#0b5b80"
                 stroke="white"
                 label
                 isAnimationActive={true}

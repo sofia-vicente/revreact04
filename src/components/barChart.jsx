@@ -20,7 +20,7 @@ export const GBarra = () => {
             <YAxis width="auto" />
             <Tooltip />
             <Legend />
-            <Bar fill='orange' dataKey="Meta" radius={[10, 10, 0, 0]} />
+            <Bar fill='pink' dataKey="Meta" radius={[10, 10, 0, 0]} />
             <Bar fill='blue' dataKey="Atingido" radius={[10, 10, 0, 0]} />
         </BarChart>
     )
